@@ -1,4 +1,0 @@
-
-Git -log
-git diff
-To test Pull request
